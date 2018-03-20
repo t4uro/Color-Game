@@ -1,0 +1,40 @@
+body {
+	background-color: #232323;
+	color: #eee;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	background-color: #3b80ef;
+	color: #eee;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 25px;
+}
+
+.selected {
+	background-color: #3b80ef;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+.square {
+	background-color: green;
+	width: 30%;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 10px;
+}
+
+.center {
+	text-align: center;
+	background-color: #eee;
+	color: black;
+	height: 30px;
+}
